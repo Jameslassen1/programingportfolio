@@ -6,6 +6,7 @@
 [Click for points](https://github.com/Jameslassen1/Clickforpoints.git)
 
 ## individual projects
+[Adventuring sword](https://github.com/Jameslassen1/individualprogectgame)
 
 ### spacegame
 OOP graphics spotlighting objects for user interactin that inclueds sound and anumation, origonal art work created from the piskel app by me.
